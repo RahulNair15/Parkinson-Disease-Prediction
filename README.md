@@ -1,2 +1,2 @@
-Task 3 -Parkinson’s Disease Prediction
+Parkinson’s Disease Prediction
 
